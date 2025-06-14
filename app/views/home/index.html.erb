@@ -1,0 +1,10 @@
+<h1>Rails 8 App with Encrypted Credentials 🔐</h1>
+
+<p><strong>Secrets loaded from credentials:</strong></p>
+<ul>
+  <% @secrets.each do |key, value| %>
+    <li><strong><%= key %>:</strong> <%= value %></li>
+  <% end %>
+</ul>
+
+<p style="color: green;">✅ App started via Procfile (check <code>foreman start</code> log)</p>
