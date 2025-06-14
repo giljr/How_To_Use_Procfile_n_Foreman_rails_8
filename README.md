@@ -2,7 +2,7 @@
 
 Secure your secrets and streamline app startup using `credentials.yml.enc` and `foreman`.
 
-Note: if you get stuck, please see my [page](https://medium.com/jungletronics/). See [this](https://medium.com/jungletronics/secure-secrets-in-rails-d52744a2e436) post too!
+Note: if you get stuck, please see my [page](https://medium.com/jungletronics/rails-8-credentials-procfile-secure-secrets-and-streamlined-startup-5af05b1d5ebc). See [this](https://medium.com/jungletronics/secure-secrets-in-rails-d52744a2e436) post too!
 
 ## 🔐 What You’ll Learn
 
